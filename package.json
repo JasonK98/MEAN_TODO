@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.16.3",
-    "webpack": "^4.10.2"
+    "angular": "^1.7.0",
+    "express": "4.16.3"
+  },
+  "devDependencies": {
+    "webpack": "1.12.11"
   }
 }
